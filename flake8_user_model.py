@@ -3,7 +3,7 @@ import tokenize
 
 from sys import stdin
 
-__version__ = '1.0'
+__version__ = '1.1'
 
 USER_MODEL_ERROR_CODE = 'T007'
 USER_MODEL_ERROR_MESSAGE = 'user model import found'
